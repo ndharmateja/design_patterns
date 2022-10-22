@@ -1,5 +1,9 @@
 package decorator.headfirst_starbuzz;
 
+import decorator.headfirst_starbuzz.beverages.Beverage;
+import decorator.headfirst_starbuzz.beverages.DarkRoast;
+import decorator.headfirst_starbuzz.beverages.Espresso;
+import decorator.headfirst_starbuzz.beverages.HouseBlend;
 import decorator.headfirst_starbuzz.decorators.Mocha;
 import decorator.headfirst_starbuzz.decorators.Soy;
 import decorator.headfirst_starbuzz.decorators.Whip;
