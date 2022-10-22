@@ -20,7 +20,7 @@ public class CurrentConditionsDisplay implements DisplayElement, Observer {
     @Override
     public void display() {
         System.out.println(
-                String.format("Current conditions: Temperature is %.2fF and humidity is %f%%", this.temperature,
+                String.format("Current conditions: Temperature is %.1fF and humidity is %.2f%%", this.temperature,
                         this.humidity));
     }
 
