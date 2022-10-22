@@ -1,4 +1,4 @@
-package strategy.headfirst_ex1.fly;
+package strategy.headfirst_duck_simulator.fly;
 
 public class FlyRocketPowered implements FlyBehaviour {
 

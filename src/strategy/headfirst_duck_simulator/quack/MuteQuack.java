@@ -1,4 +1,4 @@
-package strategy.headfirst_ex1.quack;
+package strategy.headfirst_duck_simulator.quack;
 
 public class MuteQuack implements QuackBehaviour {
 

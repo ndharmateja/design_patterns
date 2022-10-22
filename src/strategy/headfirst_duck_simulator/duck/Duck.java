@@ -1,7 +1,7 @@
-package strategy.headfirst_ex1.duck;
+package strategy.headfirst_duck_simulator.duck;
 
-import strategy.headfirst_ex1.fly.FlyBehaviour;
-import strategy.headfirst_ex1.quack.QuackBehaviour;
+import strategy.headfirst_duck_simulator.fly.FlyBehaviour;
+import strategy.headfirst_duck_simulator.quack.QuackBehaviour;
 
 public abstract class Duck {
     FlyBehaviour flyBehaviour;
