@@ -1,5 +1,8 @@
 package observer.headfirst_weather_station;
 
+import observer.headfirst_weather_station.displays.CurrentConditionsDisplay;
+import observer.headfirst_weather_station.displays.StatisticsDisplay;
+
 public class WeatherStation {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
