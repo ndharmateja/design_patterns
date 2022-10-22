@@ -28,9 +28,9 @@ public class HeatIndexDisplay implements DisplayElement, Observer {
     }
 
     @Override
-    public void update(double temp, double humidity, double pressure) {
-        this.temperature = temp;
-        this.humidity = humidity;
+    public void update() {
+        this.temperature = this.weatherData.getTemperature();
+        this.humidity = this.weatherData.getHumidity();
         display();
     }
 
