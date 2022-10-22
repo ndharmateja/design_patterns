@@ -42,4 +42,24 @@ public class WeatherData implements Subject {
         measurementsChanged();
     }
 
+    public List<Observer> getObservers() {
+        return observers;
+    }
+
+    public void setObservers(List<Observer> observers) {
+        this.observers = observers;
+    }
+
+    public double getTemperature() {
+        return temperature;
+    }
+
+    public double getHumidity() {
+        return humidity;
+    }
+
+    public double getPressure() {
+        return pressure;
+    }
+
 }
