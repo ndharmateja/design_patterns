@@ -1,10 +1,10 @@
-package observer.headfirst_weather_station.displays;
+package observer.headfirst_weatherstation.displays;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import observer.headfirst_weather_station.Observer;
-import observer.headfirst_weather_station.WeatherData;
+import observer.headfirst_weatherstation.Observer;
+import observer.headfirst_weatherstation.WeatherData;
 
 public class StatisticsDisplay implements DisplayElement, Observer {
     List<Double> temperatures;

@@ -1,4 +1,4 @@
-package observer.headfirst_weather_station;
+package observer.headfirst_weatherstation;
 
 public interface Observer {
     public void update();

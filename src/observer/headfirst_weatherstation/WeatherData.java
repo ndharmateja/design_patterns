@@ -1,4 +1,4 @@
-package observer.headfirst_weather_station;
+package observer.headfirst_weatherstation;
 
 import java.util.ArrayList;
 import java.util.List;

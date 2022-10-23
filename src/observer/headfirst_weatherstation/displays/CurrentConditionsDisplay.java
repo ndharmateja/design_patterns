@@ -1,7 +1,7 @@
-package observer.headfirst_weather_station.displays;
+package observer.headfirst_weatherstation.displays;
 
-import observer.headfirst_weather_station.Observer;
-import observer.headfirst_weather_station.WeatherData;
+import observer.headfirst_weatherstation.Observer;
+import observer.headfirst_weatherstation.WeatherData;
 
 public class CurrentConditionsDisplay implements DisplayElement, Observer {
     double temperature;
