@@ -1,4 +1,4 @@
-package strategy.headfirst_duck_simulator.fly;
+package strategy.headfirst_ducksimulator.fly;
 
 public class FlyNoWay implements FlyBehaviour {
 

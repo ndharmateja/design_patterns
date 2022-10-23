@@ -1,4 +1,4 @@
-package strategy.headfirst_duck_simulator.quack;
+package strategy.headfirst_ducksimulator.quack;
 
 public interface QuackBehaviour {
     public void quack();

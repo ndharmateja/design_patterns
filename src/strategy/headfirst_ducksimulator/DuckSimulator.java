@@ -1,9 +1,9 @@
-package strategy.headfirst_duck_simulator;
+package strategy.headfirst_ducksimulator;
 
-import strategy.headfirst_duck_simulator.duck.Duck;
-import strategy.headfirst_duck_simulator.duck.MallardDuck;
-import strategy.headfirst_duck_simulator.duck.ModelDuck;
-import strategy.headfirst_duck_simulator.fly.FlyRocketPowered;
+import strategy.headfirst_ducksimulator.duck.Duck;
+import strategy.headfirst_ducksimulator.duck.MallardDuck;
+import strategy.headfirst_ducksimulator.duck.ModelDuck;
+import strategy.headfirst_ducksimulator.fly.FlyRocketPowered;
 
 public class DuckSimulator {
     public static void main(String[] args) {

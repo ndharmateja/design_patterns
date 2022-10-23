@@ -1,7 +1,7 @@
-package strategy.headfirst_duck_simulator.duck;
+package strategy.headfirst_ducksimulator.duck;
 
-import strategy.headfirst_duck_simulator.fly.FlyNoWay;
-import strategy.headfirst_duck_simulator.quack.Quack;
+import strategy.headfirst_ducksimulator.fly.FlyNoWay;
+import strategy.headfirst_ducksimulator.quack.Quack;
 
 public class ModelDuck extends Duck {
 
