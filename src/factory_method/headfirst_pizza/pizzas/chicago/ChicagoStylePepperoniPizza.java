@@ -16,7 +16,7 @@ public class ChicagoStylePepperoniPizza extends Pizza {
 	}
 
 	@Override
-	protected void cut() {
+	public void cut() {
 		System.out.println("Cutting the pizza into square slices");
 	}
 }
