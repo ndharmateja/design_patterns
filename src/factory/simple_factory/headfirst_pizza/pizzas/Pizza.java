@@ -1,4 +1,4 @@
-package simple_factory.headfirst_pizza.pizzas;
+package factory.simple_factory.headfirst_pizza.pizzas;
 
 public interface Pizza {
     public void prepare();

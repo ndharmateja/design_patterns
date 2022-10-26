@@ -1,6 +1,6 @@
-package simple_factory.headfirst_pizza;
+package factory.simple_factory.headfirst_pizza;
 
-import simple_factory.headfirst_pizza.pizzas.Pizza;
+import factory.simple_factory.headfirst_pizza.pizzas.Pizza;
 
 public class PizzaStore {
     SimplePizzaFactory factory;

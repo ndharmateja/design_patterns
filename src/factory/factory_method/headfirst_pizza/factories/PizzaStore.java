@@ -1,6 +1,6 @@
-package factory_method.headfirst_pizza.factories;
+package factory.factory_method.headfirst_pizza.factories;
 
-import factory_method.headfirst_pizza.pizzas.Pizza;
+import factory.factory_method.headfirst_pizza.pizzas.Pizza;
 
 public abstract class PizzaStore {
 

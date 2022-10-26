@@ -1,6 +1,6 @@
-package simple_factory.headfirst_pizza.pizzas;
+package factory.simple_factory.headfirst_pizza.pizzas;
 
-public class CheesePizza implements Pizza {
+public class ClamPizza implements Pizza {
 
     @Override
     public void prepare() {

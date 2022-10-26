@@ -1,10 +1,10 @@
-package factory_method.headfirst_pizza.factories;
+package factory.factory_method.headfirst_pizza.factories;
 
-import factory_method.headfirst_pizza.pizzas.Pizza;
-import factory_method.headfirst_pizza.pizzas.ny.NYStyleCheesePizza;
-import factory_method.headfirst_pizza.pizzas.ny.NYStyleClamPizza;
-import factory_method.headfirst_pizza.pizzas.ny.NYStylePepperoniPizza;
-import factory_method.headfirst_pizza.pizzas.ny.NYStyleVeggiePizza;
+import factory.factory_method.headfirst_pizza.pizzas.Pizza;
+import factory.factory_method.headfirst_pizza.pizzas.ny.NYStyleCheesePizza;
+import factory.factory_method.headfirst_pizza.pizzas.ny.NYStyleClamPizza;
+import factory.factory_method.headfirst_pizza.pizzas.ny.NYStylePepperoniPizza;
+import factory.factory_method.headfirst_pizza.pizzas.ny.NYStyleVeggiePizza;
 
 public class NYPizzaStore extends PizzaStore {
     @Override

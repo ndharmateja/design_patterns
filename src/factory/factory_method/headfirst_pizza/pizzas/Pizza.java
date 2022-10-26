@@ -1,4 +1,4 @@
-package factory_method.headfirst_pizza.pizzas;
+package factory.factory_method.headfirst_pizza.pizzas;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,10 +1,10 @@
-package factory_method.headfirst_pizza.factories;
+package factory.factory_method.headfirst_pizza.factories;
 
-import factory_method.headfirst_pizza.pizzas.Pizza;
-import factory_method.headfirst_pizza.pizzas.chicago.ChicagoStyleCheesePizza;
-import factory_method.headfirst_pizza.pizzas.chicago.ChicagoStyleClamPizza;
-import factory_method.headfirst_pizza.pizzas.chicago.ChicagoStylePepperoniPizza;
-import factory_method.headfirst_pizza.pizzas.chicago.ChicagoStyleVeggiePizza;
+import factory.factory_method.headfirst_pizza.pizzas.Pizza;
+import factory.factory_method.headfirst_pizza.pizzas.chicago.ChicagoStyleCheesePizza;
+import factory.factory_method.headfirst_pizza.pizzas.chicago.ChicagoStyleClamPizza;
+import factory.factory_method.headfirst_pizza.pizzas.chicago.ChicagoStylePepperoniPizza;
+import factory.factory_method.headfirst_pizza.pizzas.chicago.ChicagoStyleVeggiePizza;
 
 public class ChicagoPizzaStore extends PizzaStore {
 

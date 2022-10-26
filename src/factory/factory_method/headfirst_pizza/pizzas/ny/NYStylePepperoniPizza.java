@@ -1,6 +1,6 @@
-package factory_method.headfirst_pizza.pizzas.ny;
+package factory.factory_method.headfirst_pizza.pizzas.ny;
 
-import factory_method.headfirst_pizza.pizzas.Pizza;
+import factory.factory_method.headfirst_pizza.pizzas.Pizza;
 
 public class NYStylePepperoniPizza extends Pizza {
 

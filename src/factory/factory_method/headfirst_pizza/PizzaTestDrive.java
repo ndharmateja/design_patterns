@@ -1,9 +1,9 @@
-package factory_method.headfirst_pizza;
+package factory.factory_method.headfirst_pizza;
 
-import factory_method.headfirst_pizza.factories.ChicagoPizzaStore;
-import factory_method.headfirst_pizza.factories.NYPizzaStore;
-import factory_method.headfirst_pizza.factories.PizzaStore;
-import factory_method.headfirst_pizza.pizzas.Pizza;
+import factory.factory_method.headfirst_pizza.factories.ChicagoPizzaStore;
+import factory.factory_method.headfirst_pizza.factories.NYPizzaStore;
+import factory.factory_method.headfirst_pizza.factories.PizzaStore;
+import factory.factory_method.headfirst_pizza.pizzas.Pizza;
 
 public class PizzaTestDrive {
     public static void main(String[] args) {

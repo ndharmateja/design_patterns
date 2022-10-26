@@ -1,6 +1,6 @@
-package factory_method.headfirst_pizza.pizzas.chicago;
+package factory.factory_method.headfirst_pizza.pizzas.chicago;
 
-import factory_method.headfirst_pizza.pizzas.Pizza;
+import factory.factory_method.headfirst_pizza.pizzas.Pizza;
 
 public class ChicagoStyleClamPizza extends Pizza {
 	public ChicagoStyleClamPizza() {
