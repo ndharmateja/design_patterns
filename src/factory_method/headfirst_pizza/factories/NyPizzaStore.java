@@ -6,8 +6,7 @@ import factory_method.headfirst_pizza.pizzas.ny.NYStyleClamPizza;
 import factory_method.headfirst_pizza.pizzas.ny.NYStylePepperoniPizza;
 import factory_method.headfirst_pizza.pizzas.ny.NYStyleVeggiePizza;
 
-public class NyPizzaStore extends PizzaStore {
-
+public class NYPizzaStore extends PizzaStore {
     @Override
     public Pizza createPizza(String type) {
         if (type.equals("cheese"))
@@ -20,5 +19,4 @@ public class NyPizzaStore extends PizzaStore {
             return new NYStyleVeggiePizza();
         return null;
     }
-
 }
